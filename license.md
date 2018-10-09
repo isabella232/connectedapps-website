@@ -1,0 +1,4 @@
+---
+title: license
+layout: license
+---
