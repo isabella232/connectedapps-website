@@ -1,0 +1,4 @@
+---
+title: drug
+layout: drug
+---

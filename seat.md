@@ -1,0 +1,4 @@
+---
+title: seat
+layout: seat
+---
